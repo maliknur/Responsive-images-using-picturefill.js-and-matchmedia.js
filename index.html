@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Flexible images</title>
+	<script src="matchmedia.js"></script>
+	<script src="picturefill.js"></script>
+</head>
+<body>
+	<picture>
+		<source srcset="fleximage_large.jpg" media="(min-width: 980px)">
+		<source srcset="fleximage_medium.jpg" media="(min-width: 640px)">
+		<img srcset="fleximage_small.jpg" alt="A giant stone face at The Bayon temple in Angkor Thom, Cambodia">
+	</picture>
+</body>
+</html>
