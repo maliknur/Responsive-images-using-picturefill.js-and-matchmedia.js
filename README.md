@@ -3,14 +3,9 @@
 
 Nice tools for switching to various image sizes as per browser screen resolution
 
-Picturefill.js - ##Author
+Picturefill.js - Author: **[scottjehl]**
 
-**[scottjehl]**
-
-
-Matchmedia.js - ##Author
-
-**[paulirish]**
+Matchmedia.js - Author: **[paulirish]**
 
 [scottjehl]: https://github.com/scottjehl/picturefill/
 [paulirish]: https://github.com/paulirish/matchMedia.js/
